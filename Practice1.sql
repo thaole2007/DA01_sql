@@ -5,3 +5,5 @@ Where Population > 120000 and Countrycode= "USA"
 select * from city
 where countrycode= "JPN"
 --ex3
+select city, state from station
+--ex4
